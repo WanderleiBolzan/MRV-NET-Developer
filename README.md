@@ -1,18 +1,40 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# dotnet-mongo
 
-## Digital Innovation One
+Exemplo de aplicação .net core com mongodb.
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+Para teste:
 
-## Eliézer Zarpelão
-[GitHub Timeline](https://elizarp.github.io/timeline/)  
-[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
-[Github](https://github.com/elizarp) 
+https://localhost:5001/infectado
 
-## Marcos Freire
-[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
-[Github](https://github.com/marcosfreire) 
+```json
+{
+	"dataNascimento": "1990-03-01",
+	"sexo": "M",
+	"latitude": -23.5630994,
+	"longitude": -46.6565712
+}
+```
+OBS: é preciso ter configurar o acesso ao banco no appsettings.
 
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
+Links Uteis:
+
+- .net core - https://dotnet.microsoft.com/download
+
+- visual code - https://code.visualstudio.com/download
+
+- postman - https://www.postman.com/downloads/
+
+- mongo atlas - https://www.mongodb.com/cloud/atlas/register
+
+
+-----------------------------------------------
+
+Referências:
+
+https://docs.mongodb.com/
+
+https://docs.mongodb.com/manual/
+
+https://docs.mongodb.com/ecosystem/drivers/csharp/
+
+https://docs.atlas.mongodb.com/
