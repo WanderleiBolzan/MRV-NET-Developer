@@ -1,21 +1,18 @@
-# Digital Innovation One - Prática .NET
+# dotnet-vaquinha-tests
+Projeto Base para Testes - .Net Core  
 
-## Criando uma APP de cadastro em memória
+## Digital Innovation One
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
+[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
 
-## Contato
+## Eliézer Zarpelão
+[GitHub Timeline](https://elizarp.github.io/timeline/)  
+[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
+[Github](https://github.com/elizarp) 
 
-Eliézer Zarpelão
+## Marcos Freire
+[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
+[Github](https://github.com/marcosfreire) 
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
-
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
-
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
-
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+## Slides
+[Slides em PDF](TesteNetCore.pdf)
